@@ -4,8 +4,8 @@
         {
             "email": "sotiropoulos@google.com",
             "github": "FilipposSot",
-            "name": "Filippos Sotiropoulos",
-            "github_user_id": 29069962
+            "github_user_id": 29069962,
+            "name": "Filippos Sotiropoulos"
         }
     ],
     "repository": [
@@ -13,7 +13,8 @@
     ],
     "versions": [
         "2.1",
-        "2.2"
+        "2.2",
+        "2.2.bcr.1"
     ],
     "yanked_versions": {}
 }
