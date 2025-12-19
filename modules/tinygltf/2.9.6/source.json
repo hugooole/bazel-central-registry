@@ -7,7 +7,7 @@
         "json-import.patch": "sha256-j+ssjbxhl/p18YppVseEG9efJBFJfYw6E1aqCjH4VI8="
     },
     "overlay": {
-        "BUILD.bazel": "sha256-A5D/mPCgixr1iV2npLvO9+kF02hCs/R8uztXQgqWNb4=",
+        "BUILD.bazel": "sha256-jXqkXgHLdf7NzoHL7aUZNX5tjQ3kdeX/9UvmQxzCF8w=",
         "MODULE.bazel": "sha256-VMcFrnZI293LLfpHn7GnIIRgY0aCFJgt/lEj48RwNv4="
     }
 }

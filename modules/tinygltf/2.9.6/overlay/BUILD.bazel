@@ -18,6 +18,7 @@ license(
 
 cc_library(
     name = "tinygltf",
+    includes = ["."],
     hdrs = ["tiny_gltf.h"],
     srcs = ["tiny_gltf.cc"],
     deps = [
