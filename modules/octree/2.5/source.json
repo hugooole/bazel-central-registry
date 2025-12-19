@@ -3,6 +3,6 @@
     "strip_prefix": "Octree-2.5",
     "integrity": "sha256-hgiM0AAlSu3fT511wGALf3meBiNAOUEk1pdggp7TF/4=",
     "overlay": {
-        "BUILD.bazel": "sha256-I0jMrupOndm2YLqLHyKJ73Tt/Xif8oSGu7mLrcFlMbk="
+        "BUILD.bazel": "sha256-pmgTUX1DU4N0u7tH0JoI6SOIqD/qVqLzMPTu/dSDwnU="
     }
 }
