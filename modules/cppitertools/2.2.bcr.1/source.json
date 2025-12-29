@@ -4,7 +4,7 @@
     "strip_prefix": "cppitertools-2.2",
     "patches": {
         "module-add-version.patch": "sha256-EfWxRsLmoaX7cQXUQqwZW1105MzqMyfaOi1SlmpkAxU=",
-        "build-fix.patch": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        "build-fix.patch": "sha256-MXuoPEWKLSpA0rlOuziaYBMvq5II4Ob1MId+sWEpbsk="
     },
     "patch_strip": 1
 }

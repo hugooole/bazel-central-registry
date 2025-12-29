@@ -1,0 +1,9 @@
+--- a/BUILD
++++ b/BUILD
+@@ -1,5 +1,6 @@
+ cc_library(
+     name = "cppitertools",
++    includes = [".", "cppitertools"],
+     hdrs = [
+         "cppitertools/accumulate.hpp",
+         "cppitertools/batched.hpp",
